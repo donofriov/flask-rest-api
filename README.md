@@ -1,3 +1,7 @@
-# Flask REST API
+# Stores REST API
 
-Python/Flask REST API project based on rest-api-flask-and-python udemy course 
+This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
+
+Deployed on Heroku. 
+
+Based on rest-api-flask-and-python udemy course 
