@@ -28,7 +28,7 @@ class Store(Resource):
             store.delete_from_db()
             return {'message': 'Store deleted'}
 
-        return {'message': 'Store not found.'}, 400
+        return {'message': 'Store not found.'}, 404
 
 
 class StoreList(Resource):
